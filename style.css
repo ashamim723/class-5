@@ -1,0 +1,26 @@
+
+/* .box{
+    background-color: aqua;
+    margin: 50px 50px;
+    padding: 40px 30px 20px 10px ;
+    border:25px groove rgb(13, 255, 0);
+    border-top-right-radius: 50px ;
+    border-bottom-left-radius: 50px;
+}
+
+  
+
+.box1{
+    background-color: aqua;
+    margin: 50px auto;
+    padding: 40px 30px 20px 10px ;
+    border-left: 25px solid blueviolet;
+    border-radius: 20px;
+    
+} */
+
+  p{
+color: azure;
+    background-color: blueviolet;
+    border: 5px double rgb(0, 255, 21);
+  }
